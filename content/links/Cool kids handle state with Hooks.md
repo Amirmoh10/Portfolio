@@ -1,8 +1,7 @@
 ---
-title: Understanding the React build workflow and the folder structure
-cover: 
-link: https://dev.to/amirmoh10/understanding-the-react-build-workflow-and-the-folder-structure-3hlc
-date: 2019-06-01
+title: Cool kids handle state with Hooks
+link: https://dev.to/amirmoh10/cool-kids-handle-state-with-hooks-52p3
+date: 2019-07-02
 tags: ['react','javaScript','webDev', 'article']
 ---
 

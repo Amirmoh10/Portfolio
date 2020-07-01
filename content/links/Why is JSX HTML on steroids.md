@@ -1,8 +1,7 @@
 ---
-title: Cool kids handle state with Hooks
-cover: 
-link: https://dev.to/amirmoh10/cool-kids-handle-state-with-hooks-52p3
-date: 2019-07-02
+title: Why is JSX HTML on steroids?
+link: https://medium.com/@b00051220/why-is-jsx-html-on-steroids-f64807fb582
+date: 2019-05-01
 tags: ['react','javaScript','webDev', 'article']
 ---
 

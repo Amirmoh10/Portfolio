@@ -1,8 +1,7 @@
 ---
-title: 'Simple calculator using react class components'
-cover: 
-date: 2019-06-26
-link: https://github.com/Amirmoh10/Simple-calculator.git
+title: 'WordCounter app'
+date: 2019-11-12
+link: https://github.com/Amirmoh10/wordsCounter.git
 tags: ['react','javaScript','webDev', 'project']
 ---
 

@@ -1,8 +1,7 @@
 ---
-title: 'CardList app to learn array methods'
-cover: 
+title: 'Simple calculator using react class components'
 date: 2019-06-26
-link: https://github.com/Amirmoh10/Developers-CardList.git
+link: https://github.com/Amirmoh10/Simple-calculator.git
 tags: ['react','javaScript','webDev', 'project']
 ---
 

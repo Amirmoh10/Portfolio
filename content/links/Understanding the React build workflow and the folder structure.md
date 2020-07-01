@@ -1,8 +1,7 @@
 ---
-title: Why is JSX HTML on steroids?
-cover: 
-link: https://medium.com/@b00051220/why-is-jsx-html-on-steroids-f64807fb582
-date: 2019-05-01
+title: Understanding the React build workflow and the folder structure
+link: https://dev.to/amirmoh10/understanding-the-react-build-workflow-and-the-folder-structure-3hlc
+date: 2019-06-01
 tags: ['react','javaScript','webDev', 'article']
 ---
 

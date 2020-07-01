@@ -1,8 +1,7 @@
 ---
-title: 'WordCounter app'
-cover: 
+title: 'TodoList app'
 date: 2019-11-12
-link: https://github.com/Amirmoh10/wordsCounter.git
+link: https://github.com/Amirmoh10/TodoListApp
 tags: ['react','javaScript','webDev', 'project']
 ---
 
