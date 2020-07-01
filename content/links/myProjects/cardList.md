@@ -1,6 +1,6 @@
 ---
 title: 'CardList app to learn array methods'
-cover: ./image.jpg
+cover: 
 date: 2019-06-26
 link: https://github.com/Amirmoh10/Developers-CardList.git
 tags: ['react','javaScript','webDev', 'project']
