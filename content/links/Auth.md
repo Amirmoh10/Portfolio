@@ -1,7 +1,7 @@
 ---
-title: 'CardList app to learn array methods (React/CSS)'
-date: 2019-06-26
-link: https://github.com/Amirmoh10/Developers-CardList.git
+title: 'Profile Authentication App (React/Firebase/tailwindCSS)'
+date: 2020-9-10
+link: https://github.com/Amirmoh10/AuthApp
 tags: ['react','javaScript','webDev', 'project']
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: 'CardList app to learn array methods (React/CSS)'
-date: 2019-06-26
-link: https://github.com/Amirmoh10/Developers-CardList.git
+title: 'Movie Finder App (React/tailwind)'
+date: 2020-7-20
+link: https://github.com/Amirmoh10/MovieFinder
 tags: ['react','javaScript','webDev', 'project']
 ---
 

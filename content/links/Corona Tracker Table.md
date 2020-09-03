@@ -1,7 +1,7 @@
 ---
-title: 'CardList app to learn array methods (React/CSS)'
-date: 2019-06-26
-link: https://github.com/Amirmoh10/Developers-CardList.git
+title: 'Covid-19 Tracker Table (React/tailwind)'
+date: 2020-7-25
+link: https://github.com/Amirmoh10/covid-19-tracker
 tags: ['react','javaScript','webDev', 'project']
 ---
 

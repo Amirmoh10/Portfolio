@@ -1,5 +1,5 @@
 ---
-title: 'Simple calculator using react class components'
+title: 'Simple calculator using react class components (React/CSS)'
 date: 2019-06-26
 link: https://github.com/Amirmoh10/Simple-calculator.git
 tags: ['react','javaScript','webDev', 'project']
