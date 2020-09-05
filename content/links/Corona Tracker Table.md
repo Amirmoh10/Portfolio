@@ -1,5 +1,5 @@
 ---
-title: 'Covid-19 Tracker Table (React/tailwind)'
+title: 'Covid-19 Tracker Table (React/tailwindCSS)'
 date: 2020-7-25
 link: https://github.com/Amirmoh10/covid-19-tracker
 tags: ['react','javaScript','webDev', 'project']
