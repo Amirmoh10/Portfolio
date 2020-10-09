@@ -14,8 +14,8 @@ module.exports = {
     twitterCreator: '', // creator account on twitter
     social: [
       {
-        icon: `facebook`,
-        url: `https://www.facebook.com/amir.ghezala.7`
+        icon: `linkedin`,
+        url: `https://www.linkedin.com/in/amir-ghezala-14643b179/`
       },
       {
         icon: `twitter`,
