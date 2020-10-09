@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     siteTitle: 'Amir Ghezala',
     siteDescription: 'Frontend Developer',
-    siteImage: '/profileShot.png', // main image of the site for metadata
+    siteImage: '/banner.png', // main image of the site for metadata
     siteUrl: 'https://chronoblog-hacker.now.sh/',
     pathPrefix: '/',
     siteLanguage: 'en',
