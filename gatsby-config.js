@@ -3,7 +3,7 @@ module.exports = {
     siteTitle: 'Amir Ghezala',
     siteDescription: 'Frontend Developer',
     siteImage: '/siteShot.png', // main image of the site for metadata
-    siteUrl: 'https://chronoblog-hacker.now.sh/',
+    siteUrl: 'https://www.amirghezala.com/',
     pathPrefix: '/',
     siteLanguage: 'en',
     ogLanguage: `en_US`,
