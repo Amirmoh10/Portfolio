@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     siteTitle: 'Amir Ghezala',
     siteDescription: 'Frontend Developer',
-    siteImage: '/banner.png', // main image of the site for metadata
+    siteImage: '/siteShot.png', // main image of the site for metadata
     siteUrl: 'https://chronoblog-hacker.now.sh/',
     pathPrefix: '/',
     siteLanguage: 'en',
@@ -57,8 +57,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Seif Ghezala`,
-        short_name: `Seif`,
+        name: `Amir Ghezala`,
+        short_name: `Amir`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#3a5f7d`,
