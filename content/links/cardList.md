@@ -1,8 +1,8 @@
 ---
-title: 'CardList app to learn array methods (React/CSS)'
-date: 2019-06-26
-link: https://github.com/Amirmoh10/Developers-CardList.git
-tags: ['react','javaScript','webDev', 'project']
+title: 'CardsList App to learn how to style React components (React/CSS modules/Styled-Components)'
+date: 2020-09-28
+link: https://github.com/Amirmoh10/CardsList
+tags: ['react', 'javaScript', 'webDev', 'project']
 ---
 
 **Link card** is a card, when clicked, the user goes to the specified link.
