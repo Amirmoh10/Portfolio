@@ -1,8 +1,8 @@
 ---
-title: 'GithubJobs App (React/CSS)'
-date: 2020-10-18
-link: https://github.com/Amirmoh10/githubjobs
-tags: ['react', 'javaScript', 'webDev', 'project']
+title: 'Product Finder (Next.js/CSS-modules)'
+date: 2021-03-10
+link: https://github.com/Amirmoh10/Product-Finder
+tags: ['react','javaScript','next.js', 'css', 'project']
 ---
 
 **Link card** is a card, when clicked, the user goes to the specified link.

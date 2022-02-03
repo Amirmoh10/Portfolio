@@ -1,5 +1,5 @@
 ---
-title: 'WordsCounter App (React/CSS)'
+title: 'WordsCounter (React/CSS)'
 date: 2019-11-12
 link: https://github.com/Amirmoh10/wordsCounter
 tags: ['react','javaScript','webDev', 'project']

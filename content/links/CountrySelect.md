@@ -1,8 +1,8 @@
 ---
-title: 'Profile Authentication App (React/Firebase/tailwindCSS)'
-date: 2020-9-10
-link: https://github.com/Amirmoh10/AuthApp
-tags: ['react','javaScript','webDev', 'project']
+title: 'CountrySelect (Rescript/Emotion(Css-in-js))'
+date: 2021-03-13
+link: https://github.com/Amirmoh10/re-country-select
+tags: ['rescript', 'react', Css-in-js', 'emotion', 'project']
 ---
 
 **Link card** is a card, when clicked, the user goes to the specified link.
